@@ -1,5 +1,5 @@
 # Microservices-ecommerce-project-demo
-Demo Maven Project to show case how basic microservices works (with minimal business logic). Implemented Eureka, API-Gateway, Config-server, RabbitMQ, Keycloak, Vault, zipkin/sleuth, logstash, elasticsearch, kibana and four basic services for ecommerce.
+Demo Maven Project to show case how basic microservices works (with minimal business logic). Implemented Eureka, API-Gateway, Config-server, Resilience4j, RabbitMQ, Keycloak, Vault, zipkin/sleuth, logstash, elasticsearch, kibana and four basic services for ecommerce.
 
 # Why Microservices?
 Microservice architecture - is an architectural style that structures an application as a collection of services that are
