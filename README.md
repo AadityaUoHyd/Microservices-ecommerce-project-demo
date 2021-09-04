@@ -45,6 +45,9 @@ Verify your secret data get saved in vault or not in key-value pair by using com
 
 ![When user been created inside Keycloak](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/keycloak.JPG)
 
+- Once you access the address http://localhost:8080 you should get a Keycloak Login screen, once you logged in, you will see the session id as the response.
+![to get seesionId hit link : ](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/4.JPG)
+
 - Source from I learned Keycloak : 
           ~ https://www.keycloak.org/ 
           ~ https://www.baeldung.com/postman-keycloak-endpoints 
@@ -89,7 +92,7 @@ Verify your secret data get saved in vault or not in key-value pair by using com
 ![POST request for product-service via POSTMAN](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/productPostman.JPG)
 ![Hitting Get Request for product-service api in browser](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/product.JPG)
 
-![to get seesionId hit link : ](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/4.JPG)
+
 ![Auth Header with SessionId](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/3.JPG)
 ![success with order-service](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/1.JPG)
 ![when order got success](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/postOrderPlacedMysql.JPG)
