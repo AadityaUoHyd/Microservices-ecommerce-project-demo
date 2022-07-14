@@ -11,7 +11,7 @@ Microservice architecture - is an architectural style that structures an applica
 => Owned by a small team
 => The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
-# My Project's Technical-Stack : https://github.com/AadityaUoHyd/demo-ecommerce-microservices-features-implementations-with-maven/blob/master/MS-diagram1.PNG
+# My Project's Technical-Stack :
 ![](https://github.com/AadityaUoHyd/demo-ecommerce-microservices-features-implementations-with-maven/blob/master/MS-diagram1.PNG)
 ![](https://github.com/AadityaUoHyd/Microservices-ecommerce-project-demo/blob/master/PSX_20210904_171828.jpg)
 
